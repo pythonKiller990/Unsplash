@@ -1,7 +1,7 @@
 $(document).ready(function()
 	{
       //make a ajax request to the api
-      var api_key='77fcc3b8e0e44caa9df1f04080fb1fdf';
+      var api_key='your-api-key';
 
 
 function get_News(key)

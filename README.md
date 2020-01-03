@@ -25,7 +25,19 @@ Chrome new tab extension.
 4.Click on load unpacked
 
 
+![Screenshot 2020-01-03 at 11 03 07 AM](https://user-images.githubusercontent.com/52311969/71708620-bb054900-2e18-11ea-95b7-17d756b37e02.png)
+
+
+
+
+
+
 
 
 <br>
 5.Navigate to that unzipped folder..
+
+![Screenshot 2020-01-03 at 11 04 21 AM](https://user-images.githubusercontent.com/52311969/71708658-de2ff880-2e18-11ea-9f68-0c1cb8e4ac27.png)
+
+
+6.Select

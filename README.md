@@ -6,3 +6,10 @@ Chrome new tab extension.
 <h3>Steps to install this n Google Chrome</h3>
 
 1.Unzip the Project
+
+![Screenshot 2020-01-03 at 10 56 44 AM](https://user-images.githubusercontent.com/52311969/71708480-bd1ad800-2e17-11ea-8494-1efd43677cc4.png)
+
+
+<br>
+
+2.Navigate to Extension Page in Google Chrome

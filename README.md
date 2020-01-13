@@ -12,7 +12,7 @@ Chrome new tab extension.
 
 <br>
 
-2.Navigate to Extension Page in Google Chrome
+2.Navigate to Extension Page in Google Chrome by clicking on chrome://extensions/
 
 ![Screenshot 2020-01-03 at 10 59 57 AM](https://user-images.githubusercontent.com/52311969/71708550-30244e80-2e18-11ea-8f35-87c9e5038dd8.png)
 
